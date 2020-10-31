@@ -1,1 +1,1 @@
-# postgres-exporter-auto-discover-servers
+# Postgres Exporter - Agent
